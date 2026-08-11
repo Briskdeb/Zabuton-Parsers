@@ -85,6 +85,7 @@ bin/
 src/test/resources/cookies.txt
 local.properties
 .kotlin/
+.github/summary.yaml
 !/.idea/kotlin-statistics.xml
 
 .idea/**/discord.xml
