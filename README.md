@@ -1,6 +1,6 @@
-# Zabuton Parsers
+# Kotatsu Custom Parsers
 
-The independently versioned parser library used by [Zabuton](https://github.com/briskdeb/Zabuton). It provides the
+The independently versioned parser library used by [Kotatsu Custom](https://github.com/Briskdeb/Kotatsu-Custom). It provides the
 source integrations while the app repository owns the reader, library, downloads, and user experience.
 
 This is an intentionally opinionated, fast-moving project. Changes are developed iteratively on `dev`, validated, and
@@ -39,7 +39,7 @@ promoted to `main` when they are ready for an app release.
     }
     ```
 
-   Versions are published from this repository through [JitPack](https://jitpack.io/#briskdeb/Zabuton-Parsers)
+   Versions are published from this repository through [JitPack](https://jitpack.io/#Briskdeb/Kotatsu-Custom-Parsers)
 
    When used in Android
    projects, [core library desugaring](https://developer.android.com/studio/write/java8-support#library-desugaring) with
@@ -61,7 +61,7 @@ promoted to `main` when they are ready for an app release.
 
 ## Projects that use the library
 
-- [Zabuton](https://github.com/briskdeb/Zabuton)
+- [Kotatsu Custom](https://github.com/Briskdeb/Kotatsu-Custom)
 
 ## Contribution
 
